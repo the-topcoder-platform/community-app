@@ -1,7 +1,7 @@
 {
   "name": "community-app",
   "version": "1.0.0",
-  "description": "Topcoder community website",
+  "description": "Topcoder Community website",
   "main": "index.js",
   "scripts": {
     "conventional-changelog": "conventional-changelog",
